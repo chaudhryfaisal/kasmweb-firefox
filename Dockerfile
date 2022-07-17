@@ -1,0 +1,1 @@
+FROM kasmweb/firefox:1.11.0
